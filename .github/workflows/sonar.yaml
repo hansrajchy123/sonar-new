@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - 'feat/*'
-  worksflow_dispatch:
+  workflow_dispatch:
 
 
 jobs:
