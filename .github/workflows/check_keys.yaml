@@ -4,6 +4,8 @@ on:
   push:
       branches:
         - main
+        -'feat'/*'
+  worksflow_dispatch:
 
 jobs:
   check-keys:
